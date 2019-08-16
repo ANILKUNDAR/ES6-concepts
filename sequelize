@@ -1,0 +1,3 @@
+  779  sequelize db:migrate
+  780  node sequelize-schema-file-generator.js 
+
